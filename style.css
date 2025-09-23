@@ -35,3 +35,25 @@
     border: none;
     cursor: pointer;
 }
+.de2 {
+    width: 1440px;
+    height: 599px;
+    border: solid 1px red;
+    display: flex;
+
+}
+.header1 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 64px;
+}
+span {
+    color: #4CAF4F
+}
+.hh2 {
+    border: solid 1px red;
+     
+}
+.p1 {
+
+}
